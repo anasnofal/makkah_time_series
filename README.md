@@ -1,5 +1,11 @@
 # Makkah Time Series Forecasting
 
+Purpose
+-------
+This repository was prepared as a take-home task for the Data Scientist role at SAS Saudi Arabia. It demonstrates time-series data preprocessing, exploratory analysis, linear modelling with evaluation, and a simple 10-year forecast — all organized into reproducible scripts and notebooks.
+
+Overview
+
 This repository contains code and notebooks to analyze and forecast daily power consumption for Makkah (exploratory analysis, linear regression training, evaluation and a simple 10-year forecast).
 
 Repository structure
