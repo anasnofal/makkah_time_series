@@ -58,7 +58,6 @@ Forecast assumptions (important)
   - Forecast outputs are annual averages; if you want daily forecasts with seasonal patterns, I can implement that.
 
 Troubleshooting
-- If a script fails with `ModuleNotFoundError: data_utils` when running from another working directory, run the scripts from the project root or modify the import to `from scripts.data_utils import ...`.
 - If pandas complains about writing Excel files, install `openpyxl`:
 
 ```bash
